@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Money Market Simulation</string>
+    <string name="calculate_next_day">Next Day</string>
+    <string name="buy">buy</string>
+    <string name="sell">sell</string>
+    <string name="reset">Reset</string>
+</resources>
